@@ -6,4 +6,4 @@ sidebar_image: /images/cover_1.jpg
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-baseurl: /strcse # the subpath of your site, e.g. /blog/
+baseurl: /darkesthour # the subpath of your site, e.g. /blog/
